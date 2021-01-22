@@ -1,0 +1,17 @@
+npm set init.author.name "Guru99."
+
+npm set init.author.email "guru99@gmail.com"
+
+npm set init.author.url http://Guru99.com
+
+
+npm login
+npm init
+
+
+git add.
+git commit -m "Initial release"
+git tag v0.0.1 
+git push origin master --tags
+
+npm publish
